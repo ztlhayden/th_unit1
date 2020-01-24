@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 20%;
-  border: 3px solid red;
+  border: 3px solid #690507;
   transition: all 1s;
 }
 header .profile-image:hover {
@@ -84,7 +84,7 @@ header .profile-image:hover {
 .articletitle {
   text-align: center;
   padding: 1%;
-  color: blue;
+  color: #001341;
   border: black solid 3px;
   border-radius: 5%;
 }
