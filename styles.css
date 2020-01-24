@@ -76,6 +76,15 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
+.edul h3 {
+  margin: 1px;
+}
+.edul h4 {
+  margin: 1px;
+}
+.edul {
+  margin: 10px;
+}
 .restitle {
   text-align: center;
   background: #fff;
@@ -112,7 +121,7 @@ header .profile-image:hover {
   width: 100%;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #690507;
 }
 
 ul.skills {
