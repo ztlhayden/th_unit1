@@ -88,19 +88,6 @@ header .profile-image:hover {
   border: black solid 3px;
   border-radius: 5%;
 }
-.res-card {
-  margin: 30px;
-  padding: 20px 40px 40px;
-  max-width: 500px;
-  text-align: center;
-  background: #fff;
-  border-bottom: 4px solid #ccc;
-  border-radius: 6px;
-  transition: all .5s;
-}
-.res-card:hover {
-  border-color: #ff99ff;
-}
 .tag {
   background-color: #efefef;
   color: black;
@@ -122,6 +109,7 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
+  width: 100%;
 }
 .card:hover {
   border-color: #ff99ff;
